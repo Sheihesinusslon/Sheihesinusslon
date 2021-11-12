@@ -18,7 +18,9 @@
   
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/75010755/141420561-400cb75e-cdb9-428b-b3f7-0016d2f79820.png" />
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/75010755/141420561-400cb75e-cdb9-428b-b3f7-0016d2f79820.png" />
+<img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/75010755/141421118-456861a0-0363-4aa7-84a8-6fe6fca5a0a3.png" />
+<img align="left" alt="Django" width="26px" src="https://user-images.githubusercontent.com/75010755/141421106-b5ac325d-7642-4223-b6ed-9391661f6a1c.png" />
 <img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/75010755/141417640-6e1ec9f4-9d47-4256-976f-2c6f5321d5ed.png" />
 <img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/75010755/141417657-ca5494e4-22a7-4b7f-9840-8d3d879d7ba7.png" />
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/75010755/141417668-dc5546da-32cd-48e6-b9cf-a4487d3561a5.png" />
