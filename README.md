@@ -1,10 +1,10 @@
 # Hi there, I'm Nickita - aka Sheihesinusslon 👋 
 [![Portfolio Apps](https://img.shields.io/website?label=Pet%20Projects&style=for-the-badge&up_color=magenta&up_message=check&url=https%3A%2F%2Fgithub.com%2FSheihesinusslon%2Fportfolio-apps)](https://github.com/Sheihesinusslon/portfolio-apps)
-<img align="left" alt="lightsaber" width="30px" src="https://user-images.githubusercontent.com/75010755/141423250-e545a450-0fec-4a4a-850a-29a4e67e8a96.png">
+<img align="left" alt="lightsaber" width="28px" src="https://user-images.githubusercontent.com/75010755/141423250-e545a450-0fec-4a4a-850a-29a4e67e8a96.png">
 
 ## I'm a Junior Python Developer!
   
-- :computer:I work at Deutsche Telecom IT Solutions!
+- :computer: I work at Deutsche Telecom IT Solutions!
 - 🌱   I’m currently learning everything 🤣
 - 🥅   2022 Goals: Learn C++ and elevate as a Pythonista
 - ⚡   Fun fact: I do Crossfit and love Hip-Hop
