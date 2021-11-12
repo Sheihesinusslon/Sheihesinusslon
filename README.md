@@ -6,7 +6,7 @@
 - :computer: I work at Deutsche Telecom IT Solutions!
 - 🌱   I’m currently learning everything 🤣
 - 🥅   2022 Goals: Learn C++ and elevate as a Pythonista
-- ⚡   Fun fact: I do Crossfit and love Hip-Hop
+- ⚡   Fun facts: I do Crossfit and love Hip-Hop
   
 ### Connect with me:
   
