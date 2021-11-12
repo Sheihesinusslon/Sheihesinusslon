@@ -3,7 +3,7 @@
   
 ## I'm a Junior Python Developer!
   
-- <img align="left" alt="lightsaber" width="26px" src="https://user-images.githubusercontent.com/75010755/141422815-ecc62cf6-0c85-4d14-87a4-363a87b01a28.jpg" /> I work at Deutsche Telecom IT Solutions!
+- <img align="left" alt="lightsaber" width="20px" src="https://user-images.githubusercontent.com/75010755/141423017-4ceef10a-ae4d-42f1-878e-32fec20274e9.png" /> I work at Deutsche Telecom IT Solutions!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn C++ and elevate as a Pythonista
 - ⚡ Fun fact: I do Crossfit and love Hip-Hop
