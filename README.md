@@ -26,12 +26,12 @@
 
 <br />
 <br />
-[<img align="left" alt="Sheihesinusslon | Codewars" src="https://www.codewars.com/users/Sheihesinusslon/badges/medium" />][codewars]  
+[<img align="left" alt="Sheihesinusslon | Codewars" src="https://www.codewars.com/users/Sheihesinusslon/badges/large" />][codewars]  
 [<img align="left" alt="Sheihesinusslon | HackerRank" width="150" height="75" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />][hackerrank]  
 
 
 [//]: # ([website]: https://.com)
 [instagram]: https://instagram.com/sheihesinusslon
 [linkedin]: https://www.linkedin.com/in/nikita-gusev-05861b212/
-[codewars]: https://www.codewars.com/users/Sheihesinusslon/badges/small
+[codewars]: https://www.codewars.com/users/Sheihesinusslon/badges/large
 [hackerrank]: https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg
