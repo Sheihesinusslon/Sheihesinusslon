@@ -3,7 +3,7 @@
   
 ## I'm a Junior Python Developer!
   
-- 🔭 I work at Deutsche Telecom IT Solutions!
+- <img align="left" alt="lightsaber" width="26px" src="https://user-images.githubusercontent.com/75010755/141422815-ecc62cf6-0c85-4d14-87a4-363a87b01a28.jpg" /> I work at Deutsche Telecom IT Solutions!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn C++ and elevate as a Pythonista
 - ⚡ Fun fact: I do Crossfit and love Hip-Hop
@@ -34,7 +34,7 @@
 ### Shwag
 
 <img align="left" alt="Sheihesinusslon | Codewars" src="https://www.codewars.com/users/Sheihesinusslon/badges/small" />   
-<img align="bottom" alt="Sheihesinusslon | HackerRank" width="150px" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />
+<img alt="Sheihesinusslon | HackerRank" width="150px" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />
 
 
 [//]: # ([website]: https://.com)
