@@ -26,7 +26,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/75010755/141417657-ca5494e4-22a7-4b7f-9840-8d3d879d7ba7.png" />
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/75010755/141417668-dc5546da-32cd-48e6-b9cf-a4487d3561a5.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/75010755/141417683-e8972e7a-6b64-4802-a1c3-337e80da9dfe.png" />
-<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/75010755/141421083-a36adeb1-8af0-403c-a4ea-1c5ff1a821cf.png" />
+<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/75010755/141422109-bb601bef-2d47-4b99-8a3f-c9568d94a8da.png" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/75010755/141417692-223b5a11-15af-4ca8-a985-8ec8bdab8f8e.png" />
 
 <br />
