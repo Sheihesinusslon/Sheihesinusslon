@@ -28,12 +28,12 @@
 
 ### Shwag
 
-<img align="left" alt="Sheihesinusslon | Codewars" src="https://www.codewars.com/users/Sheihesinusslon/badges/micro" />   
+<img align="left" alt="Sheihesinusslon | Codewars" src="https://www.codewars.com/users/Sheihesinusslon/badges/small" />   
 <img align="top" alt="Sheihesinusslon | HackerRank" width="150px" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />
 
 
 [//]: # ([website]: https://.com)
 [instagram]: https://instagram.com/sheihesinusslon
 [linkedin]: https://www.linkedin.com/in/nikita-gusev-05861b212/
-[codewars]: https://www.codewars.com/users/Sheihesinusslon/badges/micro
+[codewars]: https://www.codewars.com/users/Sheihesinusslon/badges/small
 [hackerrank]: https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg
