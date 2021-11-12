@@ -1,6 +1,5 @@
 # Hi there, I'm Nickita - aka Sheihesinusslon 👋 
 [![Portfolio Apps](https://img.shields.io/website?label=Pet%20Projects&style=for-the-badge&up_color=magenta&up_message=check&url=https%3A%2F%2Fgithub.com%2FSheihesinusslon%2Fportfolio-apps)](https://github.com/Sheihesinusslon/portfolio-apps)
-<img align="left" alt="lightsaber" width="28px" src="https://user-images.githubusercontent.com/75010755/141423250-e545a450-0fec-4a4a-850a-29a4e67e8a96.png">
 
 ## I'm a Junior Python Developer!
   
@@ -29,6 +28,7 @@
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/75010755/141417683-e8972e7a-6b64-4802-a1c3-337e80da9dfe.png" />
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/75010755/141422109-bb601bef-2d47-4b99-8a3f-c9568d94a8da.png" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/75010755/141417692-223b5a11-15af-4ca8-a985-8ec8bdab8f8e.png" />
+<img align="left" alt="lightsaber" width="28px" src="https://user-images.githubusercontent.com/75010755/141423250-e545a450-0fec-4a4a-850a-29a4e67e8a96.png" />
 
 <br />
 
