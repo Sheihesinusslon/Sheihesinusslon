@@ -1,5 +1,5 @@
 # Hi there, I'm Nickita - aka Sheihesinusslon 👋 
-  
+[![Portfolio Apps](https://img.shields.io/https://github.com/Sheihesinusslon/portfolio-apps?color=1DA1F2&style=for-the-badge)](https://github.com/Sheihesinusslon/portfolio-apps&screen_name=Apps)
   
 ## I'm a Junior Python Developer!
   
@@ -29,7 +29,7 @@
 ### Shwag
 
 <img align="left" alt="Sheihesinusslon | Codewars" src="https://www.codewars.com/users/Sheihesinusslon/badges/small" />   
-<img align="top" alt="Sheihesinusslon | HackerRank" width="150px" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />
+<img align="bottom" alt="Sheihesinusslon | HackerRank" width="150px" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />
 
 
 [//]: # ([website]: https://.com)
