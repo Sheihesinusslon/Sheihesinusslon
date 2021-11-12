@@ -1,5 +1,5 @@
 # Hi there, I'm Nickita - aka Sheihesinusslon 👋 
-[![Portfolio Apps](https://img.shields.io/endpoint?url=https://github.com/Sheihesinusslon/portfolio-apps&style=for-the-badge)]  
+[![Portfolio Apps](https://img.shields.io/?label='Pet Projects'&style=for-the-badge)][portfolio]  
   
 ## I'm a Junior Python Developer!
   
@@ -33,6 +33,7 @@
 
 
 [//]: # ([website]: https://.com)
+[portfolio]: https://github.com/Sheihesinusslon/portfolio-apps
 [instagram]: https://instagram.com/sheihesinusslon
 [linkedin]: https://www.linkedin.com/in/nikita-gusev-05861b212/
 [codewars]: https://www.codewars.com/users/Sheihesinusslon/badges/small
