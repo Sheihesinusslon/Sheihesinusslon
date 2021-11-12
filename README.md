@@ -21,7 +21,7 @@
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/75010755/141420561-400cb75e-cdb9-428b-b3f7-0016d2f79820.png" />
 <img align="left" alt="Flask" width="26px" src="https://user-images.githubusercontent.com/75010755/141421683-8ea59c00-f7ed-49ef-8dd4-6b433fe957e1.png" />
 <img align="left" alt="Django" width="26px" src="https://user-images.githubusercontent.com/75010755/141421524-40b89a5d-4a65-4316-8369-32dc1c04f681.png" />
-<img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/75010755/141421097-d2b903fe-8069-4958-9eeb-163844801126.jpg" />
+<img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/75010755/141422227-67424795-d3f0-4d6b-a9b0-a70c21b1ec5a.png" />
 <img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/75010755/141417640-6e1ec9f4-9d47-4256-976f-2c6f5321d5ed.png" />
 <img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/75010755/141417657-ca5494e4-22a7-4b7f-9840-8d3d879d7ba7.png" />
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/75010755/141417668-dc5546da-32cd-48e6-b9cf-a4487d3561a5.png" />
