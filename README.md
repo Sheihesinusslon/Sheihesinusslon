@@ -1,5 +1,5 @@
 # Hi there, I'm Nikita - aka Sheihesinusslon 👋 
-[![Portfolio Apps](https://img.shields.io/website?label=Pet%20Projects&style=for-the-badge&up_color=c576c2&up_message=check&labelColor=193549&url=https%3A%2F%2Fgithub.com%2FSheihesinusslon%2Fportfolio-apps)](https://github.com/Sheihesinusslon/portfolio-apps)
+[![Portfolio Apps](https://img.shields.io/website?label=Pet%20Projects&style=for-the-badge&up_color=e181d5&up_message=check&labelColor=193549&url=https%3A%2F%2Fgithub.com%2FSheihesinusslon%2Fportfolio-apps)](https://github.com/Sheihesinusslon/portfolio-apps)
 
 ## I'm a Junior Python Developer!
   
