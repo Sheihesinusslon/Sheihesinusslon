@@ -41,7 +41,7 @@
 
 
 [//]: # ([website]: https://.com)
-[gmail]: sheihe24gn@gmail.com
+[gmail]: mailto:sheihe24gn@gmail.com
 [telegram]: https://t.me/sheihesinusslon
 [portfolio]: https://github.com/Sheihesinusslon/portfolio-apps
 [instagram]: https://instagram.com/sheihesinusslon
