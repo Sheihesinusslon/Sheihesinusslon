@@ -39,7 +39,7 @@
 <img alt="Sheihesinusslon | HackerRank" width="150px" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />  
 
 ___
-![Sheihesinusslon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheihesinusslon&count_private=true&show_icons=True&theme=onedark)
+![Sheihesinusslon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheihesinusslon&count_private=true&show_icons=True&theme=synthwave)
 
 
 
