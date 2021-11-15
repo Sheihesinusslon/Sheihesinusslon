@@ -14,7 +14,7 @@
 [<img align="left" alt="Nikita Gusev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Nikita Gusev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sheihesinusslon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Nikita Gusev | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Nikita Gusev | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:sheihe24gn@gmail.com)
   
 <br />
   
@@ -41,7 +41,6 @@
 
 
 [//]: # ([website]: https://.com)
-[gmail]: <mailto:sheihe24gn@gmail.com>
 [telegram]: https://t.me/sheihesinusslon
 [portfolio]: https://github.com/Sheihesinusslon/portfolio-apps
 [instagram]: https://instagram.com/sheihesinusslon
