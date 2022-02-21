@@ -10,7 +10,7 @@
   
 ### Connect with me:
   
-[//]: # ([<img align="left" alt="" width="22px" src="" />][website])
+[<img align="left" alt="Digita Resume" width="22px" src="https://user-images.githubusercontent.com/75010755/141423250-e545a450-0fec-4a4a-850a-29a4e67e8a96.png" />][website]
 [<img align="left" alt="Nikita Gusev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Nikita Gusev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sheihesinusslon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -43,7 +43,7 @@ ___
 
 
 
-[//]: # ([website]: https://.com)
+[website]: http://sheihesinusslon.pythonanywhere.com
 [telegram]: https://t.me/sheihesinusslon
 [portfolio]: https://github.com/Sheihesinusslon/portfolio-apps
 [instagram]: https://instagram.com/sheihesinusslon
