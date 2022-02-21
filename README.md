@@ -10,7 +10,7 @@
   
 ### Connect with me:
   
-[<img align="left" alt="Digita Resume" width="22px" src="https://user-images.githubusercontent.com/75010755/141423250-e545a450-0fec-4a4a-850a-29a4e67e8a96.png" />][website]
+[<img align="left" alt="Digita Resume" width="22px" src="https://user-images.githubusercontent.com/75010755/154892054-aac84256-1684-4009-918d-5081ba8a7c4f.png" />][website]
 [<img align="left" alt="Nikita Gusev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Nikita Gusev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sheihesinusslon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
