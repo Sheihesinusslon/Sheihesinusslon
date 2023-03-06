@@ -3,9 +3,9 @@
 
 ## I'm a Python Developer!
   
-- :computer: I work at Deutsche Telecom IT Solutions!
-- 🌱   I’m currently learning everything 🤣
-- 🥅   2022 Goals: Learn C++ and elevate as a Pythonista
+- :computer: I work at T-Systems Iberia, Barcelona!
+- 🌱   I’m currently learning how to be a good and productive TeamLead 🤣
+- 🥅   2023 Goals: Learn Code Design and System Architecture
 - ⚡   Fun facts: I do Crossfit and love Hip-Hop
   
 ### Connect with me:
