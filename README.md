@@ -5,7 +5,7 @@
   
 - :computer: I work at T-Systems Iberia, Barcelona!
 - 🌱   I’m currently learning how to be a good and productive TeamLead 🤣
-- 🥅   2023 Goals: Learn Code Design and System Architecture
+- 🥅   2024 Goals: Learn System Architecture, System Design and Cloud
 - ⚡   Fun facts: I do Crossfit and love Hip-Hop
   
 ### Connect with me:
