@@ -37,6 +37,7 @@
 
 <img alt="Sheihesinusslon | Codewars" src="https://www.codewars.com/users/Sheihesinusslon/badges/small" />     
 <img alt="Sheihesinusslon | HackerRank" width="150px" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />  
+<img alt="Sheihesinusslon | AWS Cloud Practitioner" width="150px" src="https://github.com/Sheihesinusslon/Sheihesinusslon/assets/75010755/75d6810f-2c07-4f10-ac74-58a53804e6b7" />  
 
 ___
 ![Sheihesinusslon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheihesinusslon&count_private=true&show_icons=True&theme=cobalt)
