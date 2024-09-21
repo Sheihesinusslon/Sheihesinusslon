@@ -35,7 +35,7 @@
 
 ### Shwag
 
-<img alt="Sheihesinusslon | AWS Cloud Practitioner" width="150px" src="https://github.com/Sheihesinusslon/Sheihesinusslon/assets/75010755/75d6810f-2c07-4f10-ac74-58a53804e6b7" /><img alt="Sheihesinusslon | AWS Cloud Quest: Cloud Practitioner" width="150px" src="https://github.com/user-attachments/assets/ba2d2529-9d4e-4e7f-a693-1a9a2e3ee4d7" /><img alt="Sheihesinusslon | HackerRank" width="300px" src="https://user-images.githubusercontent.com/75010755/137488111-36663cb7-a6e3-461f-8b92-4127b105333f.jpg" />  
+<img alt="Sheihesinusslon | AWS Cloud Practitioner" width="150px" src="https://github.com/Sheihesinusslon/Sheihesinusslon/assets/75010755/75d6810f-2c07-4f10-ac74-58a53804e6b7" /><img alt="Sheihesinusslon | AWS Cloud Quest: Cloud Practitioner" width="150px" src="https://github.com/user-attachments/assets/ba2d2529-9d4e-4e7f-a693-1a9a2e3ee4d7" /><img alt="Sheihesinusslon | HackerRank" width="300px" src="https://github.com/user-attachments/assets/c8a663bd-f69e-4e32-a189-c3cd8580d292" />  
 <img alt="Sheihesinusslon | Codewars" src="https://www.codewars.com/users/Sheihesinusslon/badges/micro" />  
 ___
 ![Sheihesinusslon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheihesinusslon&count_private=true&show_icons=True&theme=cobalt)
