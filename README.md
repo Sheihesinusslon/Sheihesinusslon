@@ -5,8 +5,8 @@
   
 - :computer: I work at T-Systems Iberia, Barcelona!
 - 🌱   I keep learning and growing poco a poco to be able to call myself a Senior 🤣
-- 🥅   2024 Goals: Learn System Architecture, System Design, and Cloud
-- ⚡   Fun facts: I do Crossfit and love Hip-Hop
+- 🥅   2025 Goals: Learn Machine Learning and Rust
+- ⚡   Fun facts: I do Olympic Weightlifting and love Hip-Hop
   
 ### Connect with me:
   
