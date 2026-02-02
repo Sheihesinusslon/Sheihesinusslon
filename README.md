@@ -1,17 +1,18 @@
 # Hi there, I'm Nikita - aka Sheihesinusslon 👋 
-[![Portfolio Apps](https://img.shields.io/website?label=Pet%20Projects&style=for-the-badge&up_color=e181d5&up_message=check&labelColor=193549&url=https%3A%2F%2Fgithub.com%2FSheihesinusslon%2Fportfolio-apps)](https://github.com/Sheihesinusslon/portfolio-apps)
+[![Portfolio Apps](https://img.shields.io/website?label=Pet%20Projects&style=for-the-badge&up_color=e181d5&up_message=check&labelColor=193549&url=https%3A%2F%2Fgithub.com%2FSheihesinusslon%2Fportfolio-apps)][portfolio]
 
 ## I'm a Python Developer!
   
 - :computer: I work at T-Systems Iberia, Barcelona
 - 🌱   I keep learning and growing poco a poco to be able to call myself a Senior
 - 👀   2026 Goals: School 42
-- 🗣️   I speak 🇷🇺🇬🇧🇪🇸 and study 🇯🇵
+- 🗣️   I speak RU | EN | ES and study JP. Maji Yoroshiku!
   
 ### Connect with me:
 
 [<img align="left" alt="Nikita Gusev | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Nikita Gusev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lightsaber" width="22px" src="https://user-images.githubusercontent.com/75010755/141423250-e545a450-0fec-4a4a-850a-29a4e67e8a96.png" />][website]
   
 <br />
   
@@ -21,7 +22,6 @@
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/75010755/141417668-dc5546da-32cd-48e6-b9cf-a4487d3561a5.png" />
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/75010755/141422109-bb601bef-2d47-4b99-8a3f-c9568d94a8da.png" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/75010755/141417692-223b5a11-15af-4ca8-a985-8ec8bdab8f8e.png" />
-<img align="left" alt="lightsaber" width="28px" src="https://user-images.githubusercontent.com/75010755/141423250-e545a450-0fec-4a4a-850a-29a4e67e8a96.png" />
 
 <br />
 
