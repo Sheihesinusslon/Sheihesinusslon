@@ -5,8 +5,8 @@
   
 - :computer: I work at T-Systems Iberia, Barcelona
 - 🌱   I keep learning and growing poco a poco to be able to call myself a Senior
-- 🥅   2026 Goals: School 42
-- ⚡   I speak 
+- 👀   2026 Goals: School 42
+- 🗣️   I speak 🇷🇺🇬🇧🇪🇸 and study 🇯🇵
   
 ### Connect with me:
 
