@@ -1,10 +1,10 @@
-# Hi there, I'm Nikita - aka Sheihesinusslon 👋 
+# Hi there, I'm Nikita 👋 
 [![Portfolio Apps](https://img.shields.io/website?label=Pet%20Projects&style=for-the-badge&up_color=e181d5&up_message=check&labelColor=193549&url=https%3A%2F%2Fgithub.com%2FSheihesinusslon%2Fportfolio-apps)][portfolio]
 
-## I'm a Python Developer!
+## I'm a Python Developer 🐍
   
 - :computer: I work at T-Systems Iberia, Barcelona
-- 👀   2026 Goals: School 42
+- 👀   I study at School 42 Barcelona
 - 🗣️   I speak RU | EN | ES and study JP. Maji Yoroshiku!
   
 ### Connect with me:
